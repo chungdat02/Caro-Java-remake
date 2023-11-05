@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/caro-game-client-main/caro-game-client-main/dist/lib/mssql-jdbc-9.2.1.jre15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/caro-game-client-main/caro-game-client-main/dist/lib/mysql-connector-java-8.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

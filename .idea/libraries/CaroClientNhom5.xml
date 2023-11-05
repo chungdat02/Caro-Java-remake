@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CaroClientNhom5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/caro-game-client-main/caro-game-client-main/dist/CaroClientNhom5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
